@@ -22,7 +22,3 @@ Create two table first login_info and second stu_info
 Create Teacher Table By Using This Command: create table login_info(Name varchar(30),Password varchar(50));
 
 Create Student Table By Using This Command :create table stu_info(Name varchar(40),class varchat(2), Roll_No varchar(10), Section varchar(2),Gender varchar(10),Score varchar(10));
-
-
-
-Download the image and put the image in the same directory where the code is
